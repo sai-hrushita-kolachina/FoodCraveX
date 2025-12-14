@@ -18,23 +18,23 @@ The platform enables users to browse food items and place orders, while providin
 
 ## Installation & Setup
 # Clone the repository:
-git clone https://github.com/sai-hrushita-kolachina/FoodCraveX.git
-cd FoodCraveX
+- git clone https://github.com/sai-hrushita-kolachina/FoodCraveX.git
+- cd FoodCraveX
 
 ## Backend setup:
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 ## Frontend setup:
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ## Admin panel setup:
-cd admin
-npm install
-npm run dev
+- cd admin
+- npm install
+- npm run dev
 
 ## Future Enhancements:
 - Payment gateway integration
