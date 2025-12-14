@@ -7,8 +7,8 @@ const Footer = () => {
     <div className='footer' id='footer'>
       <div className="footer-content">
         <div className="footer-content-left">
-            <img src={assets.logo} alt="FoodThriveX Logo" className="footer-logo" />
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <img src={assets.logo} alt="FoodCraveX Logo" className="footer-logo" />
+            <p>FoodCraveX is your trusted platform for discovering and enjoying delicious, healthy, and diverse food options. We connect food lovers with the best local eateries, home chefs, and food experiences — all curated to satisfy your taste buds and nourish your lifestyle. Whether you’re craving quick bites or gourmet meals, FoodCraveX makes it easy, convenient, and enjoyable to explore flavors near you.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
@@ -28,12 +28,12 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>+1-212-456-7890</li>
-                <li>contact@foodthrivex.com</li>
+                <li>contact@foodcravex.com</li>
             </ul>
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 © FoodThriveX.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 © FoodCraveX.com - All Right Reserved.</p>
     </div>
   )
 }
