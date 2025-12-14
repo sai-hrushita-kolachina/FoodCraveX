@@ -16,8 +16,8 @@ The platform enables users to browse food items and place orders, while providin
 
 
 
-## Installation & Setup
-# Clone the repository:
+# Installation & Setup
+## Clone the repository:
 - git clone https://github.com/sai-hrushita-kolachina/FoodCraveX.git
 - cd FoodCraveX
 
@@ -43,5 +43,5 @@ The platform enables users to browse food items and place orders, while providin
 
 
 
-### Author: 
+# Author: 
 Sai Hrushita Kolachina
